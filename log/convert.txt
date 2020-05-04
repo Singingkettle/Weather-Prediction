@@ -1,0 +1,4 @@
+2020-04-14 19:12:46,110 __main__ INFO: Called with args:
+2020-04-14 19:12:46,110 __main__ INFO: Namespace(excel_file='../data/excel/2018-2019九江站点计算用数据.xlsx', key_file='../data/excel/KEY', save_folder='../data/xgboost')
+2020-04-14 19:12:49,641 __main__ INFO: Start Converting:
+2020-04-14 19:12:52,736 __main__ INFO: Done!
