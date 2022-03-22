@@ -1,21 +1,21 @@
-# °²×°
+# å®‰è£…
 
-Õû¸öÎÄ¼ş×ĞÏ¸½éÉÜÁËÈçºÎ°²×°Ä£ĞÍÔËĞĞËùĞèÒªµÄ»·¾³¡£
+æ•´ä¸ªæ–‡ä»¶ä»”ç»†ä»‹ç»äº†å¦‚ä½•å®‰è£…æ¨¡å‹è¿è¡Œæ‰€éœ€è¦çš„ç¯å¢ƒã€‚
 
-- ¹ØÓÚ»Ø¹éÄ£ĞÍ¹¤×÷Ô­ÀíµÄ½éÉÜÇë²Î¿¼, Çë²Î¿¼[`README.md`](README.md).
+- å…³äºå›å½’æ¨¡å‹å·¥ä½œåŸç†çš„ä»‹ç»è¯·å‚è€ƒ, è¯·å‚è€ƒ[`README.md`](README.md).
 
-**ĞèÒª£º**
+**éœ€è¦ï¼š**
 
-- Python¹ÜÀíÆ÷£º[`anconda`](https://www.anaconda.com/)
-- ´úÂë±àĞ´IDE£º[`Pycharm`](https://www.jetbrains.com/zh-cn/pycharm/promo/?utm_source=baidu&utm_medium=cpc&utm_campaign=cn-bai-br-pycharm-ex-pc&utm_content=pycharm-pure&utm_term=pycharm)
+- Pythonç®¡ç†å™¨ï¼š[`anconda`](https://www.anaconda.com/)
+- ä»£ç ç¼–å†™IDEï¼š[`Pycharm`](https://www.jetbrains.com/zh-cn/pycharm/promo/?utm_source=baidu&utm_medium=cpc&utm_campaign=cn-bai-br-pycharm-ex-pc&utm_content=pycharm-pure&utm_term=pycharm)
 
-**×¢Òâ£º**
+**æ³¨æ„ï¼š**
 
-- ±¾ÏîÄ¿ÔÚ³õÊ¼½×¶Î½ö½ö°²×°ÁËCPU°æµÄXGBoost.
+- æœ¬é¡¹ç›®åœ¨åˆå§‹é˜¶æ®µä»…ä»…å®‰è£…äº†CPUç‰ˆçš„XGBoost.
 
-**°²×°£º**
+**å®‰è£…ï¼š**
 
-WindowsÏÂÇë´ò¿ªAnaconda Prompt£¬LinuxÏµÍ³´ò¿ªTerminal¡£ÊäÈëÒ»ÏÂ°²×°ÃüÁî£º
+Windowsä¸‹è¯·æ‰“å¼€Anaconda Promptï¼ŒLinuxç³»ç»Ÿæ‰“å¼€Terminalã€‚è¾“å…¥ä¸€ä¸‹å®‰è£…å‘½ä»¤ï¼š
 
 ```
 conda create -n ml python=3.7
@@ -25,8 +25,8 @@ pip install scikit-learn
 pip install sklearn
 ```
 
-**ÅäÖÃ£º**
+**é…ç½®ï¼š**
 
-½«ÅäÖÃºÃµÄpython»·¾³Ìí¼Óµ½PycharmÖĞ£¬¾ßÌåµÄ²Ù×÷Á÷³Ì£¬¿ÉÒÔ²Î¿¼[`Õâ¸ö`](https://blog.csdn.net/m0_43505377/article/details/102997178)Á´½Ó¡£ÅäÖÃºÃºóµÄÊ¾ÒâÍ¼ÈçÏÂ£º
+å°†é…ç½®å¥½çš„pythonç¯å¢ƒæ·»åŠ åˆ°Pycharmä¸­ï¼Œå…·ä½“çš„æ“ä½œæµç¨‹ï¼Œå¯ä»¥å‚è€ƒ[`è¿™ä¸ª`](https://blog.csdn.net/m0_43505377/article/details/102997178)é“¾æ¥ã€‚é…ç½®å¥½åçš„ç¤ºæ„å›¾å¦‚ä¸‹ï¼š
 
-![Ğ§¹ûÍ¼](./data/img/python_env.png)
+![æ•ˆæœå›¾](./data/img/python_env.png)
